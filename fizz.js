@@ -37,6 +37,6 @@ $(document).ready(function(){
         `)  
       }
     }
-    $('#number-choice').val('');
+   $('#number-choice').val('');
   });
 });
